@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">alertdialog library</string>
+    <string name="main">this this example of implementing dialog library press bak button to show the dialog</string>
+</resources>
